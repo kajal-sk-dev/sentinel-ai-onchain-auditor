@@ -1,3 +1,3 @@
 # Sentinel AI
-AI security for Web3
+AI Smart Contract Auditor on Chain
 Author: Kajal Sk
