@@ -6,9 +6,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![Solidity](https://img.shields.io/badge/Solidity-^0.8.0-black)](https://soliditylang.org)
 
-## Author: Kajal Sk
-GitHub: github.com/kajal-sk-dev
-
 ## 🚀 What is Sentinel AI?
 AI-powered tool that audits smart contracts on-chain and finds vulnerabilities automatically.
 
@@ -18,10 +15,10 @@ AI-powered tool that audits smart contracts on-chain and finds vulnerabilities a
 - 🐍 Python + Solidity
 - ⚡ Fast & Secure
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 - Python, Solidity, AI/ML, Blockchain
 
-## 📦 Installation
+## 🛠️ Installation
 ```bash
 git clone https://github.com/kajal-sk-dev/sentinel-ai-onchain-auditor
 pip install -r requirements.txt
